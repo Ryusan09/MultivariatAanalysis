@@ -51,6 +51,8 @@ coverage.xml
 .pytest_cache/
 cover/
 
+# .gitignoreファイルに追加
+.DS_Store
 # Translations
 *.mo
 *.pot
