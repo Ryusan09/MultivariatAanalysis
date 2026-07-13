@@ -8,4 +8,6 @@
 ## 第12回
 
 - [遺伝的アルゴリズム演習](12/exercise_12_1_genetic_algorithm.ipynb)
-- [ベイズ最適化の補助実装](12/exercise_12_2_bayesian_optimization.py)
+- [遺伝的アルゴリズムの並列化レポート](12/第12回課題_遺伝的アルゴリズムの並列化.md)
+- [Worker数別の実験結果](12/ga_parallel_results.csv)
+- [ベイズ最適化の未検証補助実装（課題提出対象外）](12/exercise_12_2_bayesian_optimization.py)
