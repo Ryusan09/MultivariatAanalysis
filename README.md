@@ -9,5 +9,7 @@
 
 - [遺伝的アルゴリズム演習](12/exercise_12_1_genetic_algorithm.ipynb)
 - [遺伝的アルゴリズムの並列化レポート](12/第12回課題_遺伝的アルゴリズムの並列化.md)
-- [Worker数別の実験結果](12/ga_parallel_results.csv)
+- [Worker数・個体数・処理時間の実験結果](12/ga_worker_population_results.csv)
+- [個体数・最良解の実験結果](12/ga_population_quality_results.csv)
+- [比較実験コード](12/ga_worker_population_experiment.py)
 - [ベイズ最適化の未検証補助実装（課題提出対象外）](12/exercise_12_2_bayesian_optimization.py)
